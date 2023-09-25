@@ -1,0 +1,131 @@
+.page-1 {
+    text-align: right;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    transition: translate;
+    left: 10%;
+
+
+}
+
+button {
+    background-color: rgb(255, 71, 71);
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: small;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+
+}
+
+button:hover {
+    background-color: rgb(192, 18, 47);
+
+}
+
+.page-2 {
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    align-items: center;    
+
+}
+
+
+li {
+    list-style-type: none;
+}
+
+
+li span{
+    color: rgb(21, 232, 21);
+}  
+
+
+.page-3 head {
+    text-align: center;
+    margin: 80px opx 10px;
+
+}
+
+.page-3 {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+
+}
+
+
+
+.page-4 {
+    background-image:linear-gradient(90deg, rgba(251, 6, 6, 0.207) 27%, rgba(242, 238, 238, 0.207) 62%),url(./images/watch.png);
+    color: white;
+    background-repeat: no-repeat;
+    text-align:left;
+    height: 250px;
+    
+    left: 10%;
+    padding: 60px;}
+    
+image{
+    padding: 10px 50px;
+width: 70px;
+
+}
+
+.aa{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.ff{
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    color: rgba(99, 96, 96, 0.585)
+    
+}
+
+
+.page-5{
+    background-color: black;
+    color: white    
+
+}
+
+.page-5{
+
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    margin: 0px,opx,40px;
+    height: 350px;
+}
+
+.page-5 input{
+    background-color:black;
+    color: white;
+    border: 1px solid white;
+    padding: 20px 30px;
+    font-size: 15px;
+    border-color: white;
+    margin-bottom: 20px;
+    
+
+}
+
+.page-5 button{
+    font-size: 15px;
+    font-weight: bold;
+}
+.ss h1{
+    font-size: 20px;
+    margin: 40px 0px 10px;
+}
+
+
+
+
+    
